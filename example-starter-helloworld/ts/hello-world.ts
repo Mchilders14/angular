@@ -10,6 +10,7 @@
     Execute 'sudo n stable' to install latest stable version or 'sudo n latest' for latest verson or 'n <Version.Number>' for specific
     Using Homebrew to update to specific version 'brew switch node <version>'
     Execute 'ng new hello-world-ng --routing --skip-tests' to create first angular project.
+    Execute 'ng g c' to generate a new componet 
 */
 
 let tsname: string = "TypeScript";
