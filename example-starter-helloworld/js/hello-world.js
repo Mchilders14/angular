@@ -9,7 +9,7 @@
     Execute 'node -v' to find your current version of node.js
     Execute 'npm cache clean -f' to clear cache and then execute 'npm install -g n'; (n) - is another useful Node version manager
     Execute 'sudo n stable' to install latest stable version or 'sudo n latest' for latest verson or 'n <Version.Number>' for specific
-    Using Homebrew to update 'brew switch node <version>'
+    Using Homebrew to update to specific version 'brew switch node <version>'
 */
 var tsname = "TypeScript";
 var hw = "Hello World";
